@@ -1,4 +1,4 @@
-![QuantumTomography-Lab cover](assets/cover.png)
+![QuantumTomography-Lab cover](QuantumTomography-Lab%20cover.png)
 
 # QuantumTomography-Lab 🔬⚛️
 
